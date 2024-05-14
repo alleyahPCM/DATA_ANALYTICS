@@ -1,1 +1,1 @@
-I separated the programming assignment file into two parts because GitHub does not display my whole notebook and places a broken image icon at the end. I think this may be due to the fact that the 10 subsamples may be too big to handle. As for the rest of the pair plots, they are available in PNG format within this folder.
+I separated the programming assignment file into two parts because GitHub does not display my whole notebook and would place a broken image icon at the end. I think this may be due to the fact that the 10 subsamples may be too big to handle.
